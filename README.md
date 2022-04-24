@@ -38,12 +38,15 @@ typescript
         TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 Setup
+
     npm install
 
 Lint
+
     npm run lint
 
 Development
+
     npm run dev
 
 Make sure you have Nodejs and npm installed.
