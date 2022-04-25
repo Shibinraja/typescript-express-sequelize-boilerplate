@@ -11,7 +11,7 @@
     "build": "tsc -p ."
   },
   "keywords": [],
-  "author": "shibin (shibinraja@engineer.com",
+  "author": "shibin (shibinraja@engineer.com)",
   "repository": {
     "type": "git",
     "url": "https://github.com/Shibinraja/typescript-express-sequelize-boilerplate"
